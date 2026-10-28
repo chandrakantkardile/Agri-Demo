@@ -1,0 +1,17 @@
+{
+  "name": "om-sai-krushi-seva-kendra",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official client-ready web platform for OM SAI KRUSHI SEVA KENDRA, Georai, Tal-Newasa.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.344.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
